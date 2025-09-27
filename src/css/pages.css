@@ -6,6 +6,14 @@
 
 
 /* aboutme.jsx */
-.aboutme-photo { width: 200px; height: 200px; border-radius: 12.5%; }
+.aboutme-photo { width: 200px; border-radius: 12.5%; }
 .aboutme-resume a { color: cornflowerblue; font-weight: 750; transition: color 0.3s ease; }
 .aboutme-resume a:hover { color: purple; }
+
+
+/* projects.jsx */
+.project-photo { width: 375px; border-radius: 12.5px; }
+
+
+/* services.jsx */
+.service-photo { width: 100px; margin-bottom: 0.875em; margin-left: 1em; border-radius: 12.5px; }

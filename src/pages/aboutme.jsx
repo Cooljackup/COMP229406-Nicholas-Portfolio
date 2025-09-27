@@ -1,4 +1,4 @@
-// <!-- Name: Nicholas Bonneville - Student Number: 301194178 - September 26th, 2025 -->
+// <!-- Name: Nicholas Bonneville - Student Number: 301194178 - September 27th, 2025 -->
 import pfp from "../assets/pfp.jpg";
 import resume from "../assets/resume.pdf";
 
@@ -7,7 +7,7 @@ export default function AboutMe() {
     <div>
       <div class="pages-div">
         <div class="pages-content">
-          <img src={pfp} class="aboutme-photo" />
+          <img src={pfp} class="aboutme-photo"/>
           <div class="pages-text">
             <h1>About Me</h1>
             <p>Hello! My name is <strong>Nicholas Bonneville</strong>. I am currently a student enrolled in Software Engineering Technology here at Centennial College.</p>
