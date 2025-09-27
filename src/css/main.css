@@ -1,0 +1,6 @@
+/* Shared */
+:root { font-family: sans-serif; background: gray; }
+* { margin: 0; padding: 0; }
+
+/* home.jsx */
+.home-div { display: flex; flex-direction: column; min-height: 100vh; align-items: center; background: whitesmoke; color: black; }
