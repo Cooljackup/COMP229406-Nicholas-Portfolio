@@ -1,4 +1,4 @@
-// <!-- Name: Nicholas Bonneville - Student Number: 301194178 - September 24th, 2025 -->
+// <!-- Name: Nicholas Bonneville - Student Number: 301194178 - September 26th, 2025 -->
 import { Routes, Route, Link } from "react-router-dom";
 import Home from "./pages/home.jsx";
 import AboutMe from "./pages/aboutme.jsx";
@@ -8,8 +8,8 @@ import ContactMe from "./pages/contactme.jsx";
 
 export default function App() {
   return (
-    <div>
-      <nav>
+    <div class="app-div">
+      <nav class="navigation">
         <Link to="/">Home</Link>
         <Link to="/aboutme">About Me</Link>
         <Link to="/projects">Projects</Link>

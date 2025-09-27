@@ -1,0 +1,11 @@
+/* Shared */
+.pages-div { margin: 4em auto; padding: 3em; max-width: 1000px; border-radius: 12.5px; background-color: rgba(18, 18, 20, 0.75); box-shadow: 0 6px 18px rgba(0, 0, 0, 0.75); }
+.pages-content { display: flex; align-items: center; gap: 3em; }
+.pages-text h1 { margin-bottom: 1em; font-size: 2.5em; }
+.pages-text p { margin-bottom: 1.25em; font-size: 1.25em; }
+
+
+/* aboutme.jsx */
+.aboutme-photo { width: 200px; height: 200px; border-radius: 12.5%; }
+.aboutme-resume a { color: cornflowerblue; font-weight: 750; transition: color 0.3s ease; }
+.aboutme-resume a:hover { color: purple; }
