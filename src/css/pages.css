@@ -25,3 +25,9 @@
 
 /* contactme.jsx */
 /* .CSS that is only utilized in contactme.jsx */
+.contactme-form { display: flex; flex-direction: column; gap: 1em; }
+.contactme-form input, .contactme-form textarea { padding: 1em; border: 1px solid white; border-radius: 5px; font-size: 1em; font-family: sans-serif; color: white; background-color: rgba(255, 255, 255, 0.1); transition: 0.3s ease-in-out; }
+.contactme-form textarea { height: 150px; resize: none; }
+.contactme-form input:focus, .contactme-form textarea:focus { border-color: cornflowerblue; }
+.contactme-button { padding: 1em; border: 1px solid white; border-radius: 5px; font-size: 1em; cursor: pointer; color: white; background-color: cornflowerblue; transition: all 0.25s ease-in-out; }
+.contactme-button:hover { background-color: darkorchid; }
