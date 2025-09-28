@@ -1,4 +1,5 @@
-// <!-- Name: Nicholas Bonneville - Student Number: 301194178 - September 27th, 2025 -->
+/// <!-- Name: Nicholas Bonneville - Student Number: 301194178 - September 28th, 2025 -->
+// Services page. It lists the services and technical skills I am able to do.
 import CLanguage from "../assets/clanguage.png";
 import WebDevelopment from "../assets/webdevelopment.png";
 import UnrealEngine from "../assets/unreal.png";

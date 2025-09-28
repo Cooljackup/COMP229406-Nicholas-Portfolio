@@ -1,4 +1,5 @@
-// <!-- Name: Nicholas Bonneville - Student Number: 301194178 - September 27th, 2025 -->
+/// <!-- Name: Nicholas Bonneville - Student Number: 301194178 - September 28th, 2025 -->
+// Projects page. Displays a list of projects I have worked on with a picture and short description included and a link to the repository.
 import SpyroScope from "../assets/spyroscope.png";
 import BogGarden from "../assets/boggarden.png";
 import DoubleJump from "../assets/doublejump.jpg";

@@ -1,4 +1,5 @@
-// <!-- Name: Nicholas Bonneville - Student Number: 301194178 - September 27th, 2025 -->
+/// <!-- Name: Nicholas Bonneville - Student Number: 301194178 - September 28th, 2025 -->
+// The main application. Creates the global navigation bar and sets up the routes for different pages.
 import { Routes, Route, Link } from "react-router-dom";
 import Home from "./pages/home.jsx";
 import AboutMe from "./pages/aboutme.jsx";

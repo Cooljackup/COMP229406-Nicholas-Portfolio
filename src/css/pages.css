@@ -1,4 +1,5 @@
 /* Shared */
+/* .CSS that is shared across all the other pages not including App.jsx and main.jsx. */
 .pages-div { margin: 4em auto; padding: 3em; max-width: 1000px; border-radius: 12.5px; background-color: rgba(18, 18, 20, 0.75); box-shadow: 0 6px 18px rgba(0, 0, 0, 0.75); }
 .pages-content { display: flex; align-items: center; gap: 3em; }
 .pages-text h1 { margin-bottom: 1em; font-size: 2.5em; }
@@ -6,14 +7,21 @@
 
 
 /* aboutme.jsx */
+/* .CSS that is only utilized in aboutme.jsx. */
 .aboutme-photo { width: 200px; border-radius: 12.5%; }
 .aboutme-resume a { color: cornflowerblue; font-weight: 750; transition: color 0.3s ease; }
 .aboutme-resume a:hover { color: purple; }
 
 
 /* projects.jsx */
+/* .CSS that is only utilized in projects.jsx. */
 .project-photo { width: 375px; border-radius: 12.5px; }
 
 
 /* services.jsx */
+/* .CSS that is only utilized in services.jsx. */
 .service-photo { width: 100px; margin-bottom: 0.875em; margin-left: 1em; border-radius: 12.5px; }
+
+
+/* contactme.jsx */
+/* .CSS that is only utilized in contactme.jsx */

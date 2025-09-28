@@ -1,4 +1,5 @@
-// <!-- Name: Nicholas Bonneville - Student Number: 301194178 - September 26th, 2025 -->
+/// <!-- Name: Nicholas Bonneville - Student Number: 301194178 - September 28th, 2025 -->
+// Home page. Displays a background, a picture, and some buttons to other parts of the website.
 import { Link } from "react-router-dom";
 import pfp from "../assets/pfp.jpg";
 

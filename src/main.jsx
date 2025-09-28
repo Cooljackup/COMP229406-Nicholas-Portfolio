@@ -1,4 +1,5 @@
-// <!-- Name: Nicholas Bonneville - Student Number: 301194178 - September 24th, 2025 -->
+/// <!-- Name: Nicholas Bonneville - Student Number: 301194178 - September 28th, 2025 -->
+// Entry point for website. Imports Router DOM to enable routing through pages.
 import { BrowserRouter } from "react-router-dom";
 import { createRoot } from 'react-dom/client'
 import './css/main.css'

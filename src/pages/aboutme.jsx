@@ -1,4 +1,5 @@
-// <!-- Name: Nicholas Bonneville - Student Number: 301194178 - September 27th, 2025 -->
+/// <!-- Name: Nicholas Bonneville - Student Number: 301194178 - September 28th, 2025 -->
+// About Me page. Contains information about me, and allows the user to download my resume.
 import pfp from "../assets/pfp.jpg";
 import resume from "../assets/resume.pdf";
 
